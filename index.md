@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Table of Contents
 
   - [How to program for Android](how_to_program_for_android). 
