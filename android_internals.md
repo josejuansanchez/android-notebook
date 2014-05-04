@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Android Internals
 
   * [Anatomy & Physiology of an Android](https://sites.google.com/site/io/anatomy--physiology-of-an-android). 2008 Google I/O Session Videos and Slides.
@@ -16,5 +11,3 @@ title: Android Lab
   * [Bionic vs Glibc report](http://irati.eu/wp-content/uploads/2012/07/bionic_report.pdf). Mathieu Devos.
   * [The Dalvik Virtual Machine Architecture](http://davidehringer.com/software/android/The_Dalvik_Virtual_Machine.pdf). David Ehringer.
   * [Android Internals](http://tech-neophyte.blogspot.com.es/2012/06/android-internals.html). Ashish Bijlani.
-
-[&laquo; Go back](./)

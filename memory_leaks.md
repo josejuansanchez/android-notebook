@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Memory Leaks
 
   * [Avoiding memory leaks](http://android-developers.blogspot.com.es/2009/01/avoiding-memory-leaks.html).
@@ -13,5 +8,3 @@ title: Android Lab
 These videos are part of the course entitled [COMP 4521: Embedded Systems Software](https://sites.google.com/site/hkustcomp4521/home). The course uses Android as a vehicle to illustrate embedded software development concepts.
 
   * [Managing Your App's Memory](http://developer.android.com/training/articles/memory.html). Android Developers.
-
-[&laquo; Go back](./)

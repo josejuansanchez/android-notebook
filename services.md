@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Android Services
   * [Android Service Tutorial](http://www.vogella.com/articles/AndroidServices/article.html). [Vogella]
   * [Running in a Brackground Service](http://developer.android.com/training/run-background-service/index.html). [Android Developers]
@@ -11,5 +6,3 @@ title: Android Lab
   * [Code example: Update-Android-UI-from-a-Service](https://github.com/nickfox/Update-Android-UI-from-a-Service). [Github] 
   * [Read the code: IntentService](http://www.androidzeitgeist.com/2013/08/read-code-intentservice.html). [Android Zeitgeist]
   * [Advanced Service Patterns](http://commonsware.com/AdvAndroid/wakeful.pdf). [Mark Murphy]
-
-[&laquo; Go back](./)

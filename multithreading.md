@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Android Multithreading
   * [Processes and Threads](http://developer.android.com/guide/components/processes-and-threads.html). [Android Developers Blog]
   * [Multithreading for performance](http://android-developers.blogspot.com.es/2010/07/multithreading-for-performance.html). [Android Developers Blog]
@@ -16,5 +11,3 @@ title: Android Lab
   * [The hidden pitfalls of AsyncTask](http://logc.at/2011/11/08/the-hidden-pitfalls-of-asynctask/).
   * [A journey on the Android Main Thread - Lifecycle bits](http://corner.squareup.com/2013/12/android-main-thread-2.html).
   * [Thread Scheduling in Android](http://www.androiddesignpatterns.com/2014/01/thread-scheduling-in-android.html).
-
-[&laquo; Go back](./)

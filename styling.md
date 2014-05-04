@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Styling Android
   * [Styling the ActionBar](http://blog.stylingandroid.com/archives/1240). Mark Allison.
   * [Android Action Bar Style Generator](http://jgilfelt.github.com/android-actionbarstylegenerator/). Jeff Gilfelt.
@@ -23,5 +18,3 @@ xxhdpi: 144 x 144
 xxxhdpi: 192 x 192.
 web: 512 x 512
 ``
-
-[&laquo; Go back](./)

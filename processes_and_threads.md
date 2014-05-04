@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Processes and Threads
 
   * [Processes and Threads](http://developer.android.com/guide/components/processes-and-threads.html). [Android Developers]
@@ -17,5 +12,3 @@ These videos are part of the course entitled [COMP 4521: Embedded Systems Softwa
   * [Processes and the Zygote](http://coltf.blogspot.com.es/p/android-os-processes-and-zygote.html).
   * [Android shell tricks: ps](http://codeseekah.com/2012/10/21/android-shell-tricks-ps/).
   * [ps command on Android](http://blog.djodjo.org/?p=43).
-
-[&laquo; Go back](./)

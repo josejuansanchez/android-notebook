@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Real Android Apps
 
   * [Architecting Android Apps](http://marakana.com/s/post/1341/architecting_android_apps_at_andevcon). [Markana]
@@ -18,5 +13,3 @@ title: Android Lab
   * [Executing a HTTP POST Request with HttpClient](http://www.androidsnippets.com/executing-a-http-post-request-with-httpclient). [Android Snippets]
   * [Android Universal Image Loader](https://github.com/josejuansanchez/Android-Universal-Image-Loader). [Github]
   * [Video Recorder Demo App for Android](https://github.com/bilbo7833/VideoRecorderDemo). [GitHub]
-
-[&laquo; Go back](./)

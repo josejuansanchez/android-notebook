@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Networking for Android
 ### Volley 
   * [Volley, networking for android](http://www.jayway.com/2013/08/20/volley-networking-for-android).
@@ -18,6 +13,3 @@ title: Android Lab
 
 ### Training
   * [Performing Network Operations](http://developer.android.com/training/basics/network-ops/index.html). [Android Developers]
-
-
-[&laquo; Go back](./)

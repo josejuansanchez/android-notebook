@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### REST client applications
   * [Developing Android REST client applications](http://www.google.com/events/io/2010/sessions/developing-RESTful-android-apps.html). [Google IO. 2010] [pdf](http://dl.google.com/googleio/2010/android-developing-RESTful-android-apps.pdf).
   * [Sample Implementation of Virgil Dobjanschi's REST pattern](http://www.codeproject.com/Articles/429997/Sample-Implementation-of-Virgil-Dobjanschis-Rest-p).
@@ -22,5 +17,3 @@ title: Android Lab
   * [A Recipe for writing responsive REST clients on Android](http://birbit.com/a-recipe-for-writing-responsive-rest-clients-on-android/).
   * [Connecting Android Apps to REST APIs Services](http://xda-devcon.com/wp-content/uploads/2013/08/REST.pdf). [Jason Ostrander](http://www.twitter.com/jasonostrander)
   * [Rest interaction in Android](http://mytechaddiction.blogspot.com.es/2014/02/rest-interaction-in-android.html). [Federico Paolinelli](http://www.twitter.com/fedepaol).
-
-[&laquo; Go back](./)

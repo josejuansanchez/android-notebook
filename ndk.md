@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### NDK (Native Development Kit)
 
 * [Android NDK](http://developer.android.com/tools/sdk/ndk/index.html). Android Developers.
@@ -60,6 +55,3 @@ title: Android Lab
 The advantages of using native code do not come free. Calling JNI methods introduces extra work for the Dalvik VM and since the code is compiled, no runtime optimization can be applied. In fact, developing in NDK doesn't guarantee a performance improvement and can actually harm performance at times. Therefore, we only stated that it may improve the app's performance.
 
 Before we decide to use NDK for an Android app, it is good to know that NDK will not benefit most Android apps. It is not recommended to work in NDK simply because one prefers programming in C or C++ over Java. NDK cannot access lots of APIs available in the Android SDK directly, and developing in NDK will always introduce extra complexity into your application.
-
-
-[&laquo; Go back](./)

@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ### Energy and Network Efficient Apps
   * [Building Apps with Connectivity & the Cloud](http://developer.android.com/training/building-connectivity.html). [Android Developers Training]
   * [Fast, user-friendly and power-efficient network communication on Android](http://dl-developer.sonymobile.com/documentation/other/Erik%20Hellman%20-%20Fast,%20user-friendly%20and%20power-efficient%20network%20communication%20on%20Android.pdf). [pdf] [Sony Mobile]
@@ -32,5 +27,3 @@ title: Android Lab
 
 ### 3 Manage Network Usage
   * [Making your application’s data usage preferences available from system settings](http://gmariotti.blogspot.de/2013/02/making-your-applications-data-usage.html). [Tip]
-
-[&laquo; Go back](./)

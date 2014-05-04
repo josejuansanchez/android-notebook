@@ -1,8 +1,3 @@
----
-layout: androidlab
-title: Android Lab
----
-
 ## How to program for Android
 
 ### 1. Getting started
@@ -27,5 +22,3 @@ title: Android Lab
   * [Taming the Android UI](https://thenewcircle.com/s/post/563/video_taming_android_ui_with_eric_burke_of_square). NewCircle.
   * [Android SQLite for DBA](https://thenewcircle.com/s/post/1213/android_sqlite_for_the_dba). NewCircle.
   * [Remixing Android](https://thenewcircle.com/s/post/1044/remixing_android). NewCircle.
-
-[&laquo; Go back](./)
