@@ -3,7 +3,7 @@
     <head prefix="og: http://ogp.me/ns# book: http://ogp.me/ns/book#">
         
         <meta charset="UTF-8">
-        <title>Introduction | </title>
+        <title>ListView | </title>
 
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="robots" content="index, follow">
@@ -13,11 +13,13 @@
         <meta name="generator" content="www.gitbook.io">
 
         
-        <link rel="next" href="./how_to_program_for_android.html" />
+        <link rel="next" href="./energy_and_network_efficient_apps.html" />
         
+        
+        <link rel="prev" href="./fragments.html" />
         
 
-        <meta property="og:title" content="Introduction | ">
+        <meta property="og:title" content="ListView | ">
         <meta property="og:site_name" content="">
         <meta property="og:type" content="book">
         <meta property="og:locale" content="en_US">
@@ -40,7 +42,7 @@
 
 
         
-    <div class="book" data-github="josejuansanchez/androidlab" data-level="0" data-basepath="." data-revision="1399228349244">
+    <div class="book" data-github="josejuansanchez/androidlab" data-level="13" data-basepath="." data-revision="1399228349244">
     <div class="book-header">
     <!-- Actions Left -->
     
@@ -118,7 +120,7 @@
 
         
         <li>
-            <a href="https://github.com/josejuansanchez/androidlab/edit/master/README.md" target="blank">Edit and Contribute</a>
+            <a href="https://github.com/josejuansanchez/androidlab/edit/master/listview.md" target="blank">Edit and Contribute</a>
         </li>
         
 
@@ -649,21 +651,21 @@
             <div class="page-wrapper" tabindex="-1">
                 <div class="book-progress">
     <div class="bar">
-        <div class="inner" style="width: 0%;min-width: 0%;"></div>
+        <div class="inner" style="width: 8.928571428571429%;min-width: 7.142857142857143%;"></div>
     </div>
     <div class="chapters">
     
         <a href="./index.html" title="Introduction" class="chapter done new-chapter" data-progress="0" style="left: 0%;"></a>
     
-        <a href="./how_to_program_for_android.html" title="How to program for Android" class="chapter  new-chapter" data-progress="1" style="left: 1.7857142857142858%;"></a>
+        <a href="./how_to_program_for_android.html" title="How to program for Android" class="chapter done new-chapter" data-progress="1" style="left: 1.7857142857142858%;"></a>
     
-        <a href="./processes_and_threads.html" title="Processes and Threads" class="chapter  " data-progress="10" style="left: 3.5714285714285716%;"></a>
+        <a href="./processes_and_threads.html" title="Processes and Threads" class="chapter done " data-progress="10" style="left: 3.5714285714285716%;"></a>
     
-        <a href="./interprocess_communication.html" title="Interprocess Communication" class="chapter  " data-progress="11" style="left: 5.357142857142857%;"></a>
+        <a href="./interprocess_communication.html" title="Interprocess Communication" class="chapter done " data-progress="11" style="left: 5.357142857142857%;"></a>
     
-        <a href="./fragments.html" title="Fragments" class="chapter  " data-progress="12" style="left: 7.142857142857143%;"></a>
+        <a href="./fragments.html" title="Fragments" class="chapter done " data-progress="12" style="left: 7.142857142857143%;"></a>
     
-        <a href="./listview.html" title="ListView" class="chapter  " data-progress="13" style="left: 8.928571428571429%;"></a>
+        <a href="./listview.html" title="ListView" class="chapter done " data-progress="13" style="left: 8.928571428571429%;"></a>
     
         <a href="./energy_and_network_efficient_apps.html" title="Energy and Network Efficient Apps" class="chapter  " data-progress="14" style="left: 10.714285714285714%;"></a>
     
@@ -772,13 +774,36 @@
 
                 <div class="page-inner">
                 
+                    <section class="normal" id="section-gitbook_26">
+                    
+                        <h3 id="listview">ListView</h3>
+<ul>
+<li><a href="http://developer.android.com/guide/topics/ui/layout/listview.html" target="_blank">ListView</a>. [Android Developers]</li>
+<li><a href="http://developer.android.com/training/improving-layouts/smooth-scrolling.html" target="_blank">Making ListView Scrolling Smooth</a>. [Android Developers] [Best practices for performance]</li>
+<li><a href="http://www.vogella.com/articles/AndroidListView/article.html" target="_blank">Android ListView and ListActivity</a>. [Vogella]</li>
+<li><a href="http://f2prateek.com/blog/2013/04/14/view-recycing-in-listview/" target="_blank">View Recycing in ListView</a>. [f2prateek]</li>
+<li><a href="http://lucasr.org/2012/04/05/performance-tips-for-androids-listview/" target="_blank">Performance Tips for Android’s ListView</a>. [Lucas Rocha]</li>
+<li><a href="http://skillsmatter.com/podcast/home/dinosaurs-and-android-the-listview-evolution/hg-8574" target="_blank">Droidcon London 2013: Jorge Barroso &amp; Fernando Cejas on Dinosaurs and Android: The Listview Evolution</a>.</li>
+<li><a href="http://cyrilmottier.com/2011/06/20/listview-tips-tricks-1-handle-emptiness/" target="_blank">ListView Tips &amp; Tricks #1: Handling Emptiness</a>. Cyril Mottier.</li>
+<li><a href="http://cyrilmottier.com/2011/07/05/listview-tips-tricks-2-section-your-listview/" target="_blank">ListView Tips &amp; Tricks #2: Sectioning Your ListView</a>. Cyril Mottier.</li>
+<li><a href="http://cyrilmottier.com/2011/08/08/listview-tips-tricks-3-create-fancy-listviews/" target="_blank">ListView Tips &amp; Tricks #3: Create Fancy ListViews</a>. Cyril Mottier.</li>
+<li><a href="http://cyrilmottier.com/2011/11/23/listview-tips-tricks-4-add-several-clickable-areas/" target="_blank">ListView Tips &amp; Tricks #4: Add Several Clickable Areas</a>. Cyril Mottier.</li>
+<li><a href="http://cyrilmottier.com/2012/02/16/listview-tips-tricks-5-enlarged-touchable-areas/" target="_blank">ListView Tips &amp; Tricks #5: Enlarged Touchable Areas</a>. Cyril Mottier.</li>
+<li><a href="http://optimizationtricks.blogspot.in/2014/01/tricks-to-boost-performance-of-list-view.html" target="_blank">Tricks to boost performance of ListView</a>. Abhishek Birdawade.</li>
+</ul>
+
+                    
+                    </section>
+                
                 </div>
             </div>
         </div>
 
         
+        <a href="./fragments.html" class="navigation navigation-prev "><i class="fa fa-angle-left"></i></a>
         
-        <a href="./how_to_program_for_android.html" class="navigation navigation-next navigation-unique"><i class="fa fa-angle-right"></i></a>
+        
+        <a href="./energy_and_network_efficient_apps.html" class="navigation navigation-next "><i class="fa fa-angle-right"></i></a>
         
     </div>
 </div>
