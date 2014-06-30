@@ -8,6 +8,6 @@
   * [Android Background Processing with Threads, Handlers and AsyncTask](http://www.vogella.com/articles/AndroidBackgroundProcessing/article.html). [Vogella]
   * [Efficient Android Threading](http://www.slideshare.net/andersgoransson/efficient-android-threading).
   * [The Dark side of AsyncTask](http://bon-app-etit.blogspot.com.es/2013/04/the-dark-side-of-asynctask.html).
-  * [The hidden pitfalls of AsyncTask](http://logc.at/2011/11/08/the-hidden-pitfalls-of-asynctask/).
+  * [The hidden pitfalls of AsyncTask](http://blog.danlew.net/2014/06/21/the-hidden-pitfalls-of-asynctask/).
   * [A journey on the Android Main Thread - Lifecycle bits](http://corner.squareup.com/2013/12/android-main-thread-2.html).
   * [Thread Scheduling in Android](http://www.androiddesignpatterns.com/2014/01/thread-scheduling-in-android.html).
