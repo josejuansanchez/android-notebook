@@ -51,6 +51,7 @@
   - [Android Wear](android_wear).
   - [Bluetooth](android_bluetooth).
   - [adb](adb).
+  - [Material Design](material_design).
 
 
 ### References
