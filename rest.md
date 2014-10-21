@@ -1,5 +1,5 @@
 ### REST client applications
-  * [Implementing an Android REST Client using Retrofit](http://inaka.net/blog/2014/10/10/android-retrofit-rest-client/))
+  * [Implementing an Android REST Client using Retrofit](http://inaka.net/blog/2014/10/10/android-retrofit-rest-client/).
   * [Developing Android REST client applications](http://www.google.com/events/io/2010/sessions/developing-RESTful-android-apps.html). [Google IO. 2010] [pdf](http://dl.google.com/googleio/2010/android-developing-RESTful-android-apps.pdf).
   * [Sample Implementation of Virgil Dobjanschi's REST pattern](http://www.codeproject.com/Articles/429997/Sample-Implementation-of-Virgil-Dobjanschis-Rest-p).
   * [Modern techniques for implementing REST clients on Android 4.0 and below](http://neilgoodman.net/2011/12/26/modern-techniques-for-implementing-rest-clients-on-android-4-0-and-below-part-1/). [Neil Goodman]
